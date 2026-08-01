@@ -1,0 +1,6 @@
+{
+  "name": "Cinematic Birthday Experience",
+  "description": "A luxury, cinematic birthday celebration website with interactive cake candle blowing, grand finale fireworks, floating birthday decorations, 3D memory gallery, and personalized storytelling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
